@@ -2,7 +2,7 @@
 
 ### 🚀 Mobile Developer | Android & iOS | Full Stack 
 
-Currently focused on **Mobile Application Development (Android & iOS)** using **Flutter, Kotlin, Swift, and Java**, alongside robust **Full Stack** backend solutions (C#, ASP.NET Core, Python, and SQL databases). I combine a structured engineering mindset with clean architecture principles to build efficient, cross-platform software solutions.
+Currently focused on **Mobile Application Development (Android & iOS)** using **Flutter, Kotlin, Swift, and Java**, alongside robust backend solutions. I combine a structured engineering mindset with clean architecture principles to build efficient, cross-platform software solutions.
 
 ---
 
@@ -12,12 +12,10 @@ Currently focused on **Mobile Application Development (Android & iOS)** using **
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white) 
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 
 - **Mobile & Frontend**: Flutter, Kotlin, Swift, Java, Android Studio, Xcode, WebViews.
-- **Backend & Databases**: C#, ASP.NET Core MVC, Entity Framework Core, Python (FastAPI), SQL Server, MySQL.
+- **Backend & Databases**: SQL Server, MySQL, REST APIs.
 - **Tools & Environment**: Git, GitHub, Bitbucket, Docker, WSL/Ubuntu, macOS & Windows environments.
 - **Certifications & Background**: Cisco Certified (Networking Basics & Computer Hardware Basics), professional background in image processing and digital workflows (Adobe Lightroom & Photoshop).
 
